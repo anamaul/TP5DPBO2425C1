@@ -4,9 +4,7 @@ dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka
 saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 <h2>🖥️ GUI Program</h2>
-Tampilan antarmuka aplikasi dirancang menggunakan Java Swing dengan komponen-komponen yang sederhana namun fungsional.
-Berikut tampilan GUI-nya:
-
+Tampilan antarmuka aplikasi dirancang menggunakan Java Swing dengan komponen-komponen yang sederhana namun fungsional. Berikut tampilan GUI-nya:
 <img width="734" height="589" alt="image" src="https://github.com/user-attachments/assets/2576bf92-9d25-4a02-a382-0ea4b7ff3d97" />
 
 <h2>🧩 Desain Program</h2>
