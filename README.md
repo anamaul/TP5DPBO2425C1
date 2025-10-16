@@ -32,7 +32,7 @@ Komponen yang digunakan:
 <h2>🔄 Perbedaan dari TP4</h2>
 
 Pada TP5, sudah tidak menggunakan Arraylist, tetapi menggunakan Database MySQL untuk menyimpan datanya, data bersifat permanent(persistent), karena sebelumnya di TP4 menggunakan arraylist(hardcode) jadi ketika kita sudah menambahkan data, lalu kita keluar dari program, data yang sebelumnya hilang, Implementasi pattern DAO (Data Access Object)
-Operasi CRUD langsung terintegrasi dengan database:
+Operasi CRUD langsung terintegrasi dengan database:<br>
 INSERT → Data langsung masuk ke tabel database<br>
 UPDATE → Data langsung diperbarui di database<br>
 DELETE → Data langsung terhapus dari database<br>
