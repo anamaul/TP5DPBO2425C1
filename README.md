@@ -28,3 +28,12 @@ Jumlah : jumlahSpinner
 addUpdateButton
 cancelButton
 delete Button
+
+<h2>Penjelasan Perubahan dari TP4</h2>
+
+Perbedaan dari yang sebelumnya adalah, ketika kita menambahkan data, mengubah data, ataupun menghapus data, kita tidak lagi menggunakan array list lagi, tapi menggunakan database yang terkoneksi dengan mySQL, jadi ketika kita menambahkan data, akan langsung masuk ke database, begitupun jika mengupdate dan menghapus, 
+
+<h2>Penjelasan Alur Program</h2>
+
+https://github.com/user-attachments/assets/5250e709-4a3d-4e83-a17e-bcd7914a09fb
+
