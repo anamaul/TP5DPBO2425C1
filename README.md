@@ -10,7 +10,9 @@ Tampilan antarmuka aplikasi dirancang menggunakan Java Swing dengan komponen-kom
 
 <h2>🧩 Desain Program</h2>
 Kelas ini merepresentasikan entitas produk dengan atribut utama sebagai berikut:
+<br>
 <img width="304" height="134" alt="image" src="https://github.com/user-attachments/assets/ddec89a9-90ef-4d39-a050-7027f976e434" />
+<br>
 Setiap atribut memiliki getter dan setter untuk menjaga prinsip enkapsulasi.
 
 <h2>⚙️ Fitur Utama</h2>
